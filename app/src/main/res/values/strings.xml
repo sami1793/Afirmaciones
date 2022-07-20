@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Afirmaciones</string>
+    <string name="afirmacion1">“Si tienes un gran problema en tu vida, significa qué ¡estas siendo una persona pequeña!”</string>
+    <string name="afirmacion2">“La razón número uno por la que la mayoría de la gente no obtiene lo que quiere es que no sabe lo que quiere.” </string>
+    <string name="afirmacion3">"Aspira a las estrellas y alcanzarás cuanto menos la luna"</string>
+    <string name="afirmacion4">“Los pensamientos llevan sentimientos. Los sentimientos llevan a acciones. Las acciones llevan a resultados.”</string>
+    <string name="afirmacion5">"Si quieres cambiar los frutos, tendrás que modificar primero las raíces."</string>
+    <string name="afirmacion6">"Si quieres volar con las águilas, ¡no nades con los patos!"</string>
+    <string name="afirmacion7">"Observo mis pensamientos y tomo únicamente en consideración aquellos que me infundan poder"</string>
+    <string name="afirmacion8">"¡Tus ingresos pueden crecer únicamente hasta donde crezcas tú!"</string>
+    <string name="afirmacion9">"No puedes hacer que alguien se sienta bien consigo mismo hasta que tú te sientas bien contigo mismo"</string>
+    <string name="afirmacion10">"Tus excusas no son más que las mentiras que tus miedos te han vendido."</string>
+</resources>
